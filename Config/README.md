@@ -6,6 +6,37 @@
 
 - *Ubicacion del fichero (`~/.config/neofetch/config.conf`) contiene la configuración personalizada para Neofetch. Neofetch es una herramienta que muestra información del sistema de manera visualmente atractiva en la terminal. En este fichero, puedes ajustar opciones como la información que se muestra, el estilo del texto, los colores, y otros parámetros de visualización según tus preferencias.*
 
+- **Íconos Utilizados:**
+
+*Los siguientes íconos se utilizan en la configuración. Para ver una hoja de trucos completa de los íconos de Nerd Fonts, visita [Nerd Fonts Cheat Sheet](https://www.nerdfonts.com/cheat-sheet "https://www.nerdfonts.com/cheat-sheet").*
+
+- **Nombre del Ícono:** *`nf-dev-ubuntu`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-fa-memory`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-md-cpu_64_bit`*  
+  **Ícono:** *󰻠*
+
+- **Nombre del Ícono:** *`nf-oct-cpu`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-seti-config`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-md-monitor`*  
+  **Ícono:** *󰍹*
+
+- **Nombre del Ícono:** *`nf-dev-linux`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-fa-desktop`*  
+  **Ícono:** **
+
+- **Nombre del Ícono:** *`nf-md-arch`*  
+  **Ícono:** *󰣇*
+
 ## ***Información General***
 
 ```bash
