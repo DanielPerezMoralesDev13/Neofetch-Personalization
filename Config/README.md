@@ -1060,7 +1060,7 @@ col_offset="auto"
    - **Descripción:** *Define el backend para mostrar imágenes.*
    - **Valores:**
      - **`'ascii'`**, **`'caca'`**, **`'chafa'`***, etc.: Diferentes métodos para mostrar imágenes en la terminal.*
-   - **Ejemplo:** *`image_backend='kitty'` usa el backend `kitty`.*
+   - **Ejemplo:** *`image_backend='ascii'` usa el backend `ascii`.*
 
 2. **Fuente de Imagen (`--source`)**
    - **Descripción:** *Especifica la fuente de la imagen o archivo ASCII a mostrar.*
@@ -1836,7 +1836,7 @@ disk_display="off"
 # Values:   'ascii', 'caca', 'chafa', 'jp2a', 'iterm2', 'off',
 #           'pot', 'termpix', 'pixterm', 'tycat', 'w3m', 'kitty'
 # Flag:     --backend
-image_backend="kitty"
+image_backend="ascii"
 
 # Image Source
 #
